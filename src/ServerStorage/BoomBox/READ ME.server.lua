@@ -1,0 +1,2 @@
+-- Put the radio tool in StartPack and that's it!
+-- You can delete this file.
